@@ -1,2 +1,14 @@
 # car-reservation-system
-A system that allows customers to create a user account, make reservations, edit reservations and view reservation history.
+🚗 Car Reservation System
+
+A GUI-based application system that allows customers to:
+
+✔️ Create an account with ID & password
+
+✔️ Make car reservations (car details, date & time)
+
+✔️ Edit and cancel existing reservations
+
+✔️ View past reservation history
+
+
