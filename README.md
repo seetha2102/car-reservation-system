@@ -2,6 +2,7 @@
 🚗 Car Reservation System
 
 🔹 Features
+
 ✔️ User Registration & Login – Customers must create an account with a unique Customer ID and log in before accessing the system.
 
 ✔️ Car Reservation System – Users can select car type and seat capacity, enter the date & time, and confirm a booking.
